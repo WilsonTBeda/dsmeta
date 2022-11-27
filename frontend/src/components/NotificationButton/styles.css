@@ -8,6 +8,12 @@
     align-items: center;
     justify-content: center;
     cursor: pointer;
+    
+
+}
+.dsmeta-red-btn:hover {
+    background-color: #f6f6f6; 
+    color: white;
 }
 
 .dsmeta-red-btn img {
